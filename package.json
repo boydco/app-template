@@ -1,0 +1,26 @@
+{
+  "name": "kata-word-chains",
+  "version": "1.0.0",
+  "description": "A word chain is a series of words of the same length with only one letter different - e.g. you can turn lead into gold with (lead => load => goad => gold).",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-academy-challenges/kata-word-chains.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-academy-challenges/kata-word-chains/issues"
+  },
+  "homepage": "https://github.com/dev-academy-challenges/kata-word-chains#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "fs-extra": "^0.26.2",
+    "lodash": "^3.10.1",
+    "mocha": "^2.3.4",
+    "ramda": "^0.18.0"
+  }
+}
